@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="User profile" android:id="@+id/btnProfile"
+        android:icon="@drawable/profile_icon"/>
+    <item android:title="Rate Me" android:id="@+id/btnRateUs"
+       android:icon="@drawable/rate_me" />
+    <item android:title="About Developer" android:id="@+id/btnDeveloper"
+        android:icon="@drawable/about_developer" />
+
+</menu>
